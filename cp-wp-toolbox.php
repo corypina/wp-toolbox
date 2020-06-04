@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Toolbox
 Description: Utilities I use, like, all the time.
-Version: 0.1
+Version: 0.1.1
 Author: Cory Piña
 Author URI: http://thisiscory.com
 */
